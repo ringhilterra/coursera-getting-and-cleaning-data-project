@@ -17,10 +17,10 @@ This is a codebook describing the different variables(columns) in my data set
 
 ## Measurements
 
- "timeBodyAccelerometer-mean()-X" 
- "timeBodyAccelerometer-mean()-Y" 
- "timeBodyAccelerometer-mean()-Z" 
- "timeBodyAccelerometer-std()-X"
+* "timeBodyAccelerometer-mean()-X" 
+* "timeBodyAccelerometer-mean()-Y" 
+* "timeBodyAccelerometer-mean()-Z" 
+* "timeBodyAccelerometer-std()-X"
  "timeBodyAccelerometer-std()-Y" 
  "timeBodyAccelerometer-std()-Z"
  "timeGravityAccelerometer-mean()-X"
